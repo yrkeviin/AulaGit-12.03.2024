@@ -23,3 +23,5 @@ console.log("Sétima alteração!");
 console.log("Oitava alteração!");
 
 console.log("Nona alteração!");
+
+console.log("Décima alteração!");
