@@ -13,3 +13,5 @@ console.log("Segunda alteração!");
 console.log("Terceira alteração!");
 
 console.log("Quarta alteração!");
+
+console.log("Novas alterações");
