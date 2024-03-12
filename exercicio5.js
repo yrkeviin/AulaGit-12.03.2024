@@ -12,8 +12,10 @@ console.log("Segunda alteração!");
 
 console.log("Terceira alteração!");
 
-console.log("Quarto alteração!");
+console.log("Quarta alteração!");
 
-console.log("Quinto alteração!");
+console.log("Quinta alteração!");
 
-console.log("Sexto alteração!");
+console.log("Sexta alteração!");
+
+console.log("Sétima alteração!");
