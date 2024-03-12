@@ -5,3 +5,7 @@ if (idade >= 18){
 }else{
     console.log("Você é menor de idade!");
 }
+
+console.log("Primeira alteração!");
+
+console.log("Segunda alteração!");
