@@ -10,4 +10,6 @@ console.log("Primeira alteração!");
 
 console.log("Segunda alteração!");
 
-console.log("Primeira alteração!");
+console.log("Terceira alteração!");
+
+console.log("Quarto alteração!");
