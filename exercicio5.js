@@ -7,21 +7,3 @@ if (idade >= 18){
 }
 
 console.log("Primeira alteração!");
-
-console.log("Segunda alteração!");
-
-console.log("Terceira alteração!");
-
-console.log("Quarta alteração!");
-
-console.log("Quinta alteração!");
-
-console.log("Sexta alteração!");
-
-console.log("Sétima alteração!");
-
-console.log("Oitava alteração!");
-
-console.log("Nona alteração!");
-
-console.log("Décima alteração!");
