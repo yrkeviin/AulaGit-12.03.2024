@@ -7,3 +7,7 @@ if (idade >= 18){
 }
 
 console.log("Primeira alteração!");
+
+console.log("Segunda alteração!");
+
+console.log("Terceira alteração!");
